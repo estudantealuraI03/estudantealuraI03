@@ -1,4 +1,6 @@
 ## BOAS VINDAS AO MEU PERFIL 🤯.
+Meu nome e isabelle.
+
 
 Estou desenvolvendo SCHATCH e JAVASCRIPT,alem do alura.
 
@@ -6,7 +8,8 @@ Estou desenvolvendo SCHATCH e JAVASCRIPT,alem do alura.
 
 https://media.tenor.com/aPFYmCN1OqsAAAAi/wrapped-gifts-birthday-presents.gif
 
-
+Curriculo 
+https://drive.google.com/drive/home
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
